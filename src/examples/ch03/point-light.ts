@@ -1,7 +1,7 @@
 import frag_shader from './point-frag.wgsl';
 import * as ws from 'webgpu-simplified';
 import { getCubeData, getSphereData, getTorusData } from '../../common/vertex-data';
-import * as cci from '../ch05/ch05-common-instance';
+import * as cci from '../ch02/ch02-common-instance';
 
 export const run = async () => {
     const canvas = document.getElementById('canvas-webgpu') as HTMLCanvasElement;

@@ -1,6 +1,7 @@
-# WebGPU Lighting and Shading: A Comprehensive Guide
+# WebGPU Lighting and Shading
+## A Comprehensive Guide to Basic and Advanced Concepts
 
-This is a source code for example projects contained in the eBook ["WebGPU Lighting and Shading: A Comprehensive Guide"](https://www.amazon.com/exec/obidos/ASIN/B0CFZP71F2/unicadinccom-20). 
+This is a source code for example projects contained in the eBook ["WebGPU Lighting and Shading"](https://www.amazon.com/exec/obidos/ASIN/B0CFZP71F2/unicadinccom-20). 
 
 <p align="center">
 <a href="https://drxudotnet.com"><img src="src/assets/cover.jpg" width="200" height="320"></a>
